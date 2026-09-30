@@ -7,3 +7,5 @@ Writeups de laboratorios de la Web Security Academy de PortSwigger, resueltos co
 ## Access Control
 
 - [User ID controlled by request parameter](access-control/user-id-controlled-by-request-parameter/) — IDOR / Broken Access Control (Apprentice)
+
+- [User role controlled by request parameter](access-control/user-role-controlled-by-request-parameter/) — Escalada vertical / Broken Access Control (Apprentice)
